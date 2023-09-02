@@ -3,7 +3,7 @@
 ```javascript
 import { View, KeyboardAvoidingView } from "react-native";
 
-// ...
+// ....
 
 <KeyboardAvoidingView behavior="padding" style={{ flex: 1 }}>
   {/* 这里放置你的底部导航组件 */}
